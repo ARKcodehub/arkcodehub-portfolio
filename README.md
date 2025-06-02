@@ -1,7 +1,7 @@
 
 # ARKcodehub | Portfolio
 
-Welcome to the official portfolio of **Aramalla Ranjith Kumar**, also known as **ARKhub**. This project is a clean, modern, and responsive personal website that showcases my web development skills, services, and contact details.
+Welcome to the official portfolio of **Aramalla Ranjith Kumar**, also known as **ARK**. This project is a clean, modern, and responsive personal website that showcases my web development skills, services, and contact details.
 
 ## 🌐 Portfolio Live Demo
 
@@ -66,4 +66,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-> Designed and developed with 💻 by Aramalla Ranjith Kumar (ARKhub)
+> Designed and developed with 💻 by Aramalla Ranjith Kumar (ARK)
