@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>ARKcodehub | Portfolio</title>
   <link rel="stylesheet" href="style.css" />
-
 </head>
 <body>
   <header>
@@ -13,50 +12,64 @@
     <nav>
       <a href="#about">About</a>
       <a href="#skills">Skills</a>
-      <a href="#projects">Projects</a>
+      <a href="#templates">Templates</a>
       <a href="#contact">Contact</a>
     </nav>
+    <div class="theme-switch">
+      <input type="checkbox" id="darkToggle" />
+      <label for="darkToggle" class="slider-toggle"></label>
+    </div>
 
-    <!-- Dark mode toggle switch -->
-    <label class="switch">
-      <input type="checkbox" id="darkToggle">
-      <span class="slider round"></span>
-    </label>
   </header>
 
   <section id="hero">
-    <h2>Hi, I'm ARAMALLA RANJITH KUMAR</h2>
+    <h2>Hi, I'm Aramalla Ranjith Kumar</h2>
     <p>Web Developer | Website Seller | Dreamer</p>
   </section>
 
   <section id="about">
     <h2>About Me</h2>
     <p>
-      I am a passionate self-taught web developer with a mission to build beautiful and functional websites. I specialize in front-end development using HTML, CSS, and JavaScript, and I also create complete website packages ready for businesses, students, and individuals. Through ARKhub, I offer creative and ready-to-sell website solutions that help others get online fast and professionally.
+      I'm a passionate, self-taught web developer who builds beautiful and professional websites. I specialize in front-end development and create sellable templates for students, businesses, and creatives.
     </p>
   </section>
 
   <section id="skills">
     <h2>Skills</h2>
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
+      <li>HTML & CSS</li>
       <li>JavaScript</li>
-      <li>Website Hosting (GitHub Pages, Netlify)</li>
-      <li>Creating Sellable Website Templates</li>
+      <li>Responsive Web Design</li>
+      <li>GitHub Pages & Netlify Hosting</li>
+      <li>Custom Website Templates</li>
     </ul>
   </section>
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <p>Coming soon...</p>
+  <section id="templates" class="templates-section">
+    <h2 class="section-title">My Website Templates</h2>
+    <p class="section-subtitle">Clean, responsive, and modern designs ready to use</p>
+    <div class="template-grid">
+      <div class="template-card">
+  <img src="assets/img/business-template.jpg" alt="Business Template Preview" />
+  <div class="template-info">
+    <h3>Modern Business Template</h3>
+    <p>Perfect for startups or personal websites. Fully responsive and fast-loading.</p>
+    <div class="template-actions">
+      <a href="#" class="btn preview-btn">Live Preview</a> <!-- put specific template preview link here -->
+      <a href="#" class="btn download-btn">Download</a>
+      <a href="https://arkcodehub.github.io/arkwebhub/" target="_blank" class="btn business-btn">Visit My Business Site</a>
+    </div>
+  </div>
+</div>
+      <!-- Add more template cards below -->
+    </div>
   </section>
 
   <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: arkhub.webdeveloper@gmail.com</p>
-    <p>Insta: @arkbhai5486</p>
-  </section>
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:arkhub.webdeveloper@gmail.com" class="contact-link">arkhub.webdeveloper@gmail.com</a></p>
+  <p>Instagram: <a href="https://instagram.com/arkbhai5486" target="_blank" class="contact-link">@arkbhai5486</a></p>
+</section>
 
   <footer>
     <p>© 2025 ARKhub. All rights reserved.</p>
@@ -65,3 +78,4 @@
   <script src="script.js"></script>
 </body>
 </html>
+
