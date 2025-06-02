@@ -1,10 +1,11 @@
+
 # ARKcodehub | Portfolio
 
 Welcome to the official portfolio of **Aramalla Ranjith Kumar**, also known as **ARKhub**. This project is a clean, modern, and responsive personal website that showcases my web development skills, services, and contact details.
 
-## 🌐 Live Demo
+## 🌐 Portfolio Live Demo
 
-👉 [View Live Site](https://arkcodehub.github.io/arkcodehub-portfolio/)
+👉 [View Live Portfolio](https://arkcodehub.github.io/arkcodehub-portfolio/)
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +19,7 @@ Welcome to the official portfolio of **Aramalla Ranjith Kumar**, also known as *
 - Dark mode toggle with theme persistence
 - Smooth scroll-triggered section animations
 - Easy navigation with sticky header
-- Sectioned layout: About, Skills, Projects, Contact
+- Sectioned layout: About, Skills, Templates, Contact
 
 ## 📂 Project Structure
 
@@ -35,7 +36,7 @@ Welcome to the official portfolio of **Aramalla Ranjith Kumar**, also known as *
 - **Hero**: Introduction with name and roles
 - **About Me**: Personal background and goals
 - **Skills**: Technologies and services offered
-- **Projects**: Placeholder for upcoming work
+- **Templates**: Showcase of website templates
 - **Contact**: Email and Instagram details
 
 ## ⚙️ Setup
@@ -52,6 +53,12 @@ Welcome to the official portfolio of **Aramalla Ranjith Kumar**, also known as *
 
 - **Email**: arkhub.webdeveloper@gmail.com  
 - **Instagram**: [@arkbhai5486](https://instagram.com/arkbhai5486)
+
+---
+
+## 🌐 Visit My Business Website
+
+👉 [ARK Web Hub](https://arkcodehub.github.io/arkwebhub/)
 
 ## 📝 License
 
